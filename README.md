@@ -1,14 +1,8 @@
 # Foundry Fund Me
 
-This is a section of the Cyfrin Solidity Course.
-
-*[⭐️ Updraft | Foundry Fund Me](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/fund-me-project-setup)*
-
-- [Foundry Fund Me](#foundry-fund-me)
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
-    - [Optional Gitpod](#optional-gitpod)
 - [Usage](#usage)
   - [Deploy](#deploy)
   - [Testing](#testing)
@@ -22,8 +16,6 @@ This is a section of the Cyfrin Solidity Course.
     - [Withdraw](#withdraw)
   - [Estimate gas](#estimate-gas)
 - [Formatting](#formatting)
-- [Thank you!](#thank-you)
-
 
 # Getting Started
 
@@ -38,16 +30,10 @@ This is a section of the Cyfrin Solidity Course.
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/foundry-fund-me-f23
-cd foundry-fund-me-f23
+git clone https://github.com/Victor-Okpukpan/foundry-fund-me
+cd foundry-fund-me
 forge build
 ```
-
-### Optional Gitpod
-
-If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/PatrickAlphaC/foundry-fund-me-f23)
 
 # Usage
 
